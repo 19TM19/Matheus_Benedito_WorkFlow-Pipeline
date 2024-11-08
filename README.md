@@ -8,3 +8,5 @@ Esses testes fazem requisições para a API SWAPI e verificam a resposta para ga
 
 Verificar se a API retorna os detalhes corretos de filmes, personagens, planetas, espécies, naves e veículos.
 Certificar-se de que a API responde corretamente com erros (como o código 404) quando um recurso não existe.
+
+Se estiver no codespace utilize o comando chmod +x ./node_modules/.bin/jest no terminal para ter as permição para fazer os testes
